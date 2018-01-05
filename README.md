@@ -87,7 +87,7 @@ The purpose of the E-commerce web application is to make life easy for the custo
 
 ## 1.5 References
 
-- Software by Md Anowarul Abedin.
+- Software Engineering by Md Anowarul Abedin.
 
 
 
