@@ -28,7 +28,7 @@ University of Liberal Arts
  - 1.3	[Intended Audience and Reading Suggestions](#intendedaudienceandreadingsuggestions)
  - 1.4	[Product Scope](#productscope)
  - 1.5	[References](#references)
- - 1.6	[A](#a)
+
 ### 2.	Overall Description
 	2.1	Product Perspective
 	2.2	Product Features
