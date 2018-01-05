@@ -25,7 +25,7 @@ University of Liberal Arts
 ### 1.	[Introduction](#introduction)
  - 1.1	[Purpose](#purpose)
  - 1.2	[Document Conventions](#documentconventions)
- - 1.3	Intended Audience and Reading Suggestions
+ - 1.3	[Intended Audience and Reading Suggestions](#intendedaudienceandreadingsuggestions)
  - 1.4	Product Scope
  - 1.5	References
 ### 2.	Overall Description
@@ -75,6 +75,8 @@ This document uses the following conventions:-
 DB | Database 
 --- | --- |
 **ER** | **Entity Relationship Diagram**
+
+### 1.3 Intended Audience and Reading Suggestions
 
 
 
