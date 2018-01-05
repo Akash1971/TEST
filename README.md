@@ -76,15 +76,15 @@ DB | Database
 --- | --- |
 **ER** | **Entity Relationship Diagram**
 
-### 1.3 Intended Audience and Reading Suggestions
+## 1.3 Intended Audience and Reading Suggestions
 
 This project is a prototype for the e-commerce system and it's restricted within the university premises. This has been implemented under the guidance of course instructor, Md Anowarul Abedin. Our audience will be all ages people who loves shopping and loves offers and bargain sale. This sector will help them to find out  all those things. 
 
-### 1.4 Product Scope
+## 1.4 Product Scope
 
 The purpose of the E-commerce web application is to make life easy for the customers who are searching for deals on offers and sales. With the help of our online application they don't have to search for hours after hours in shopping malls, google, facebook and social media's to find the offer of the product they want to buy. 
 
-### 1.5 References
+## 1.5 References
 
 - Software by Md Anowarul Abedin.
 
